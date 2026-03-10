@@ -37,6 +37,6 @@ Evening visits had the highest wait times while early morning had the lowest.
 ![Hospital Dashboard](hospital_dashboard.png)
 
 ## Project Files
-- ER Wait Time Dataset.csv
+- hospital_wait_time.csv
 - hospital_analysis.sql
 - hospital_dashboard.png
